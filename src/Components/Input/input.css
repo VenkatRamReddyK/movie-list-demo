@@ -1,0 +1,13 @@
+.input-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 5rem;
+}
+.input {
+  padding: 0.5rem;
+}
+.input-error-message {
+  font-size: 0.6rem;
+  color: red;
+}
